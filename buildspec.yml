@@ -6,8 +6,8 @@ phases:
       - echo Nothing to do yet
 artifacts:
   files:
-    -index.html
-    -favicon.ico
-    -*.pdf
-    -styles/*
-    -images/*
+    - index.html
+    - favicon.ico
+    - Sunit Kulkarni's Resume 2.26.2018.pdf
+    - styles/*
+    - images/*
