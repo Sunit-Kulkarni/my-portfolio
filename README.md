@@ -17,3 +17,4 @@ Cloudfront
 S3
 CodeBuild
 CodePipeline
+Lambda
