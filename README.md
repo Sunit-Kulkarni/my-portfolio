@@ -18,3 +18,4 @@ S3
 CodeBuild
 CodePipeline
 Lambda
+Certificate Manager
