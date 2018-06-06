@@ -10,3 +10,10 @@ HTML
 CSS
 Font Awesome
 Google Fonts
+
+#AWS Services Used
+Route53
+Cloudfront
+S3
+CodeBuild
+CodePipeline
